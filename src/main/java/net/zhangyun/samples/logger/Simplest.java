@@ -10,7 +10,7 @@ public class Simplest {
     /**
      * the logger object
      */
-    public static Logger logger = LoggerFactory.getLogger("Simplest");
+    public static Logger logger = LoggerFactory.getLogger(Simplest.class);
 
     /**
      * main entry to demonstrate how logger works
