@@ -17,6 +17,8 @@ public class Simplest {
      * @param args
      */
     public static void main(String[] args) {
-        logger.info("Hello World");
+
+        logger.info("Hello Info");
+        logger.debug("Hello Debug");
     }
 }
